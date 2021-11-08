@@ -5,9 +5,8 @@
   </p>
 
 ### My name is Akshay Elangovan. I'm currently a graduate student at University of Cincinnati studying Aerospace Engineering. I like reading about intelligent robots and control systems and am teaching myself some tools of the trade such as programming.
-<right>
-<img src="https://media.giphy.com/media/T0rRuQjUQYHSw/giphy-downsized.gif" alt="Drone" />
-  </right>
+
+<img align="right" src="https://media.giphy.com/media/T0rRuQjUQYHSw/giphy-downsized.gif" alt="Drone" />
 - 🔭 I’m currently working on Tethered UAVs being careful when precarious slips happen
 - 🌱 I’m currently learning Tensorflow, I'm positive I'm getting there
 - 💬 Ask me about anything, I'm happy to have a conversation always
