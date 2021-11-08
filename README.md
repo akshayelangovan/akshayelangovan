@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  </p>
 <p align="center">
 <img src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif" alt="Typing" width="480"/>
   </p>
