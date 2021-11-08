@@ -1,5 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" src="https://giphy.com/gifs/monkey-VjAB0fOmK15Ze">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 ### My name is Akshay Elangovan. I'm currently a graduate student at University of Cincinnati studying Aerospace Engineering. I like reading about intelligent robots and control systems and am teaching myself some tools of the trade such as programming..
 - 🔭 I’m currently working on Tethered UAVs being careful when precarious slips happen
 - 🌱 I’m currently learning Tensorflow, I'm positive I'm getting there
