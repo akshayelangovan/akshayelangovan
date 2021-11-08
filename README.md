@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center">
-<img src="https://media.giphy.com/media/T0rRuQjUQYHSw/giphy-downsized-large.gif" alt="Typing" width="480" height="480"/>
+<img src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif" alt="Typing" width="480"/>
   </p>
 
 ### My name is Akshay Elangovan. I'm currently a graduate student at University of Cincinnati studying Aerospace Engineering. I like reading about intelligent robots and control systems and am teaching myself some tools of the trade such as programming..
