@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on autonomous systems, navigation and control, just about anything that can make something move with code
 - 🤔 I’m looking for help becoming a better Python3 programmer
 - 💬 Ask me about anything, I'm happy to have a conversation always
-- 📫 On that note, connect with me here on my [LinkedIn](https://www.linkedin.com/in/akshay-elangovan/) not just to say Hi but for a professional introduction to me
+- 📫 On that note, connect with me here on my [LinkedIn](https://www.linkedin.com/in/akshay-elangovan/) for a professional introduction to me or just to say Hi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been within one feet of a moon sample brought back by Apollo 11, ask me how you can do it too
 
